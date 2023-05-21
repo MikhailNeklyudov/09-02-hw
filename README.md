@@ -14,6 +14,8 @@
 2. Приложите в файл README.md текст использованных команд в GitHub
 
 
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/bcf7d00c-a0a3-4c00-89a7-a65ff9600fbc)
+
 
 
 
