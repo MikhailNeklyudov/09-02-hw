@@ -10,9 +10,8 @@
 
 
 Задание 3.
-![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/b561bd56-c084-4bd5-a129-0619894f126c)
-![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/42a2d2af-9d37-4ce2-b74a-9da82575d0f9)
-![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/5547ade6-0ae4-4e44-8e1b-72ac759706d7)
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/26884ccc-1589-42c1-8e29-7658d1d2fc75)
+
 
 
 ![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/ecdce2ae-4291-4a2b-8eb6-3452eb42b21e)
