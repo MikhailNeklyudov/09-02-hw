@@ -17,3 +17,5 @@
 
 Задание 4.
 
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/32baf518-1a5e-45d8-8d54-5815edd50147)
+
