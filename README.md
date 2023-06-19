@@ -12,10 +12,7 @@
 Задание 3.
 ![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/26884ccc-1589-42c1-8e29-7658d1d2fc75)
 
-
-
-![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/ecdce2ae-4291-4a2b-8eb6-3452eb42b21e)
-
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/ee202cd5-a8e2-47c9-a42b-6e65fa2ebfd9)
 
 
 Задание 4.
