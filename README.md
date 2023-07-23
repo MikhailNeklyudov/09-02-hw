@@ -76,7 +76,11 @@ virtual_ipaddress {
 ![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/433b479a-5c00-4cd8-80fd-9fdc57cee337)
 
 
+
+
 Задание 2.
+
+
 
  ![VirtualBox_Debian11-master_23_07_2023_14_45_01](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/a85a33dd-09b2-485a-a316-a0b0b7ce0c39)
 
