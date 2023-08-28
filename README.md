@@ -25,12 +25,15 @@ bacula - dir.conf
 ![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/0daeca5b-3535-4652-8e3d-0883ce0220d6)
 
 
+Задание 3.
+
+Клиент
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/5a8c1f99-3489-44e1-9f35-2285a51197d2)
+
+Сервер
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/4d71850d-3661-40a7-9241-b91cdc748e4f)
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/86914050-fe33-4db0-b367-b14a6183213d)
 
 
 
 
-
-
-
-
-Задание.
