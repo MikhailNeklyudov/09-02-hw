@@ -9,6 +9,13 @@
 
 
 Задание 2.
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/c7582580-3f93-4e07-a30e-61eb2ac4bf01)
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/91edb9fe-e66b-48c2-a40c-3e69ec5d77ce)
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/a90ed8ab-22d8-43e5-ad70-a3913f3fb651)
+
+Не смог найти логов CRON.
 
 
-Задание.
+Задание 3.
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/3bee01b3-9051-4f2a-98c6-206f3df398c8)
+![image](https://github.com/MikhailNeklyudov/09-02-hw/assets/130427747/3cebb8b2-707f-499f-8cbf-1cd0cf855f49)
